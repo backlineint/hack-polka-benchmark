@@ -1,0 +1,16 @@
+{
+  "name": "@gdwc/hack-polka-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No Build Needed\"",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "polka": "^0.5.2"
+  }
+}
